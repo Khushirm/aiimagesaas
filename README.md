@@ -2,6 +2,9 @@
 
 Experience the ultimate solution for all your image needs with our versatile conversion, resizing, compression, and enhancing app. Whether you're converting formats, resizing for different platforms, compressing for faster loading times, or enhancing details for maximum impact, AutoImagify has you covered.
 
+![Screenshot (187)](https://github.com/Khushirm/aiimagesaas/assets/97796072/aab9dea9-5e34-4cbd-a1f9-5c9795615b16)
+![Screenshot (189)](https://github.com/Khushirm/aiimagesaas/assets/97796072/4615100a-90b2-434b-9b62-74eefb0c0f3c)
+
 
 
 ## Features
