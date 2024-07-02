@@ -21,7 +21,7 @@ Experience the ultimate solution for all your image needs with our versatile con
 - Shadcn UI
 - Prisma
 - MongoDB
-- Zustand
+- Stripe
 
 
 ## Demo
