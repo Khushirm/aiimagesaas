@@ -19,7 +19,6 @@ Experience the ultimate solution for all your image needs with our versatile con
 - Next.js
 - Tailwind CSS
 - Shadcn UI
-- Prisma
 - MongoDB
 - Stripe
 
